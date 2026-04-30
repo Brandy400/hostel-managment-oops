@@ -4,13 +4,13 @@
 **Group Name:** Tech Titans  
 
 **Group Leader:**  
-Saransh Upadhyay (Enrollment No: XXXXX)
+Saransh Upadhyay 
 
 **Team Members:**  
-1. Saransh Upadhyay (XXXXX)  
-2. Member Name (XXXXX)  
-3. Member Name (XXXXX)  
-4. Member Name (XXXXX)  
+1. Saransh Upadhyay 
+2. Suyash Ojha
+3. Ayushman Kashyap
+4. Apurv Shivam
 
 ---
 
