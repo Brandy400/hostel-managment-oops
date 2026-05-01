@@ -37,7 +37,7 @@ Managing hostel operations manually is inefficient and error-prone. Tasks like s
 ## 🛠️ Technology Used
 - Java (Core + OOP)
 - Java Swing (GUI)
-- (Planned) MySQL + JDBC for database
+- MySQL + JDBC for database
 
 ---
 
